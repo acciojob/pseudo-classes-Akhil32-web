@@ -11,12 +11,12 @@ body{
 	use :nth-child(2)
 }
 
-
+/* 
 #third-para{
 	use :last-child
-}
+} */
 
-#forth-para{
+#third-para{
 	color:red;
 }
 
